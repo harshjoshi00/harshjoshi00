@@ -8,46 +8,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&height=55&lines=Building+AI+That+Solves+Real-World+Problems+%F0%9F%A7%91%F0%9F%92%BB;Creating+AI+Products+That+People+Love;Let's+Connect%2C+Collaborate+%26+Create+the+Future+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/M.Tech%20DSML-RRU-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GenAI-Enthusiast-purple?style=for-the-badge"/>
-
-</p>
-
 ---
 
-# 👋 Hello, I'm Harsh Joshi
+# 🧠 About Me
 
-I'm an AI Engineer passionate about building intelligent systems that solve real-world problems.
+AI Engineer focused on designing intelligent systems that combine
+machine learning, deep learning and generative AI.
 
-🎓 M.Tech in Data Science & Machine Learning
+Currently pursuing M.Tech in Data Science & Machine Learning.
 
-🤖 Interested in
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Generative AI
-
-🚀 I enjoy transforming ideas into scalable AI applications while continuously learning new technologies.
+I enjoy building AI applications that move from research ideas
+to practical solutions.
 
 ---
+# 🚀 My AI Journey
+2025
+│
+├── Started M.Tech DSML
+│
+├── Explored Machine Learning & Deep Learning
+│
+├── Built NLP & Computer Vision Applications
+│
+└── Currently exploring Generative AI & AI Systems
+# 🚀 What I Create
 
-# 🚀 What I Build
+🤖 Intelligent AI Applications
 
-- 🤖 AI Powered Applications
-- 🧠 Machine Learning Models
-- 💬 NLP & LLM Applications
-- 👁️ Computer Vision Systems
-- 📊 Data Driven Solutions
-- ⚙️ Scalable Backend APIs
+Systems that understand, predict and assist.
 
+🧠 Machine Learning Solutions
+
+Turning data into meaningful insights.
+
+💬 Generative AI Experiences
+
+Building applications powered by modern AI.
+
+👁️ Computer Vision Systems
+
+Teaching machines to understand the visual world.
+
+⚙️ Production AI Systems
+
+Deploying scalable AI solutions.
 ---
 
 # 🛠 Tech Stack
@@ -70,6 +74,12 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 | 📈 AI Stock Prediction | LSTM + XGBoost + ARIMA based stock forecasting platform |
 
 ---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshjoshi00&theme=flat&no-frame=true&column=6"/>
+
+</p>
 
 # 📊 GitHub Analytics
 
