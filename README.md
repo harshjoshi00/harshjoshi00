@@ -52,6 +52,7 @@ Teaching machines to understand the visual world.
 ⚙️ Production AI Systems
 
 Deploying scalable AI solutions.
+
 ---
 
 # 🛠 Tech Stack
