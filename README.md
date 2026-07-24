@@ -8,6 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&height=55&lines=Building+AI+That+Solves+Real-World+Problems+%F0%9F%A7%91%F0%9F%92%BB;Creating+AI+Products+That+People+Love;Let's+Connect%2C+Collaborate+%26+Create+the+Future+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/M.Tech%20DSML-RRU-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GenAI-Enthusiast-purple?style=for-the-badge"/>
+
+</p>
+
 ---
 
 # 👋 Hello, I'm Harsh Joshi
