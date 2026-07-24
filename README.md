@@ -1,5 +1,4 @@
-  <!-- ======================= Banner ======================= -->
-
+<!-- ======================= Banner ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Harsh%20Joshi&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=57&fontAlignY=41" />
 </p>
@@ -12,55 +11,14 @@
 
 # 🧠 About Me
 
-AI Engineer focused on designing intelligent systems that combine
-machine learning, deep learning and generative AI.
-
-Currently pursuing M.Tech in Data Science & Machine Learning.
-
-I enjoy building AI applications that move from research ideas
-to practical solutions.
-
----
-# 🚀 My AI Journey
-2025
-│
-├── Started M.Tech DSML
-│
-├── Explored Machine Learning & Deep Learning
-│
-├── Built NLP & Computer Vision Applications
-│
-└── Currently exploring Generative AI & AI Systems
-# 🚀 What I Create
-
-🤖 Intelligent AI Applications
-
-Systems that understand, predict and assist.
-
-🧠 Machine Learning Solutions
-
-Turning data into meaningful insights.
-
-💬 Generative AI Experiences
-
-Building applications powered by modern AI.
-
-👁️ Computer Vision Systems
-
-Teaching machines to understand the visual world.
-
-⚙️ Production AI Systems
-
-Deploying scalable AI solutions.
+AI Engineer focused on designing intelligent systems that combine machine learning, deep learning, and generative AI. Currently pursuing an M.Tech in Data Science & Machine Learning, building applications that move from research ideas to production-ready solutions — spanning NLP, computer vision, and generative AI.
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,postgres,mongodb,git,linux,vscode"/>
-
 </p>
 
 ---
@@ -76,72 +34,31 @@ Deploying scalable AI solutions.
 
 ---
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshjoshi00&theme=flat&no-frame=true&column=6"/>
-
-</p>
-
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
-
 </p>
-
----
-
 
 ---
 
 # 🌱 Currently Exploring
 
-- Agentic AI
-- Multi-Agent Systems
+- Agentic AI & Multi-Agent Systems
 - Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- MLOps
-- AI System Design
-
----
-
-# 🎯 Goals for 2026
-
-✅ Build Production AI Products
-
-✅ Contribute to Open Source
-
-✅ Publish AI Projects
-
-✅ Learn Advanced MLOps
-
-✅ Solve Real-World Problems using AI
+- MLOps & AI System Design
 
 ---
 
 # 🤝 Let's Connect
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/harshjoshi11/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="joshiharshshaileshbhai@gmail.com">
+<a href="mailto:joshiharshshaileshbhai@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building AI that creates meaningful impact."*
-
 </p>
